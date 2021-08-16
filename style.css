@@ -1,5 +1,5 @@
 /* Global settings*/ 
-html{font-size: 52.5%; font-family: 'Roboto', sans-serif;}
+html{font-size: 62.5%; font-family: 'Roboto', sans-serif;}
 h1{font-size: 4.6rem; font-weight: 600;}
 h2{font-size: 3.8rem;}
 h3{font-size: 3rem;}
@@ -122,7 +122,7 @@ li{list-style: none;}
 
 
 
-@media screen and (max-width: 918px){
+@media screen and (max-width: 1024px){
     html{font-size: 45%;}
     .logo-container h3{display: none;}
     .logo-container img{margin: 3rem; width: 40px;}
