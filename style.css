@@ -23,7 +23,7 @@ li{list-style: none;}
         display: flex;
         align-items: center;
         flex: 1;
-        justify-content: center;
+        justify-content: flex-start;
     }
         .logo-container h3{
             background: linear-gradient(to right, rgb(15, 15, 15), rgb(63, 61, 61));
@@ -45,7 +45,7 @@ li{list-style: none;}
         display: flex;
         align-items: center;
         flex: 1; 
-        justify-content: center;
+        justify-content: flex-end;
     }
 
 /* Main settings*/
