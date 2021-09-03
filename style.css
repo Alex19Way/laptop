@@ -8,6 +8,7 @@ h5{font-size: 2rem;}
 p{font-weight: 200; font-size: 2rem; font-style: italic;}
 a{text-decoration: none;}
 
+*{-webkit-tap-highlight-color: transparent;}
 *:focus {outline: none;}
 li{list-style: none;}
 /* Header settings*/
